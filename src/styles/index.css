@@ -10,3 +10,18 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+body {
+    border: solid 1px black;
+}
+
+.strike {
+    text-decoration: line-through;
+ }
+
+ .header-main {
+    color: gray;
+ }
+
+ .todo {
+    color: gray;
+ }
